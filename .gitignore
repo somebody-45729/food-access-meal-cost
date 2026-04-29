@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+######
+# Project data files — store locally only
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
