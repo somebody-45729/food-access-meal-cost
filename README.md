@@ -12,7 +12,7 @@ The following files:
 # Food Insecurity and Associated Prices
 
 ## 1. Research Question
-Has the trend of counties with low food accessibility having higher grocery costs still continuing or has something changed? Food deserts are usually assocated with povety and limited retail competition for better pricing - this small project is focusing on whether or not limited food access continues to euqal higher meal costs at a county level in the United States.
+Has the trend of counties with low food accessibility having higher grocery costs still continuing or has something changed? Food deserts are usually assocated with povety and limited retail competition for better pricing - this small project is focusing on whether or not limited food access continues to equal higher meal costs at a county level in the United States.
 
 ## 2. Hypothesis
 Null: There is no difference in MEDIAN meal costs between low-access and adequate-access counteis, any observed difference is by chance.
