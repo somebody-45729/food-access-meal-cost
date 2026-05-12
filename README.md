@@ -1,6 +1,16 @@
 # food-access-meal-cost
 This project investigates whether U.S. counties with lower food access have higher average meal costs, a question relevant to food equity and the economic burdens faced by underserved communities.
 
+## Repository Structure
+```
+food-access-meal-cost/
+│
+├── data/          # Raw data files — not committed, see data/README.md for download instructions
+├── analysis.ipynb # Main analysis notebook with narrative
+├── README.md      # Overview of question, data, and findings
+└── results/       # Figures and output plots
+```
+
 The following files:
 1. **Food Environment Atlas** (Excel)
    - Source: https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads
