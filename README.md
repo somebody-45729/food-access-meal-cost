@@ -58,7 +58,7 @@ Null: There is no difference in MEDIAN meal costs between low-access and adequat
    - Metric 1: Median meal cost difference between groups, each group resampled independently w/ replacement at 10,000 times.
    - Metric 2: Correlation between PCT_LACCESS_POP19 and meal cost, full dataset resampled with replacement at 10,000 times.
 
-- CLT didn't apply here as the meidan is not a sum or mean of the independent random variables, not guaranteeing its sampleing distribution as normal. Also, the correlation aspect is not a mean or proportion as well.
+- CLT didn't apply here as the median is not a sum or mean of the independent random variables, not guaranteeing its sampleing distribution as normal. Also, the correlation aspect is not a mean or proportion as well.
 
 ## 5. Results
 - Overall median meal cost: $3.52
