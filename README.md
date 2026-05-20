@@ -84,7 +84,7 @@ Null: There is no difference in MEDIAN meal costs between low-access and adequat
 ## 6. Uncertainy Estimation
 - 10,000 bootstrap resamples and permuation samples were used throughout the testing
 - Bootstrap distribution of median difference was centered around $0.07, consistent with observed statstic.
-- Correlation boostrap distribution was slightly right-skewed adn centered near 0.04, a smaller but consistent positive relationship.
+- Correlation boostrap distribution was slightly right-skewed and centered near 0.04, a smaller but consistent positive relationship.
 - CI of (0.0052, 0.0823) barley excludes 0, that correlation is real but weak. Food access rate is only a small portion of meal cost variation across the given counties.
 - Permutation null distribution was centered at 0, observed difference of $0.07 fell outside the null distribution.
 
