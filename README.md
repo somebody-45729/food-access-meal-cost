@@ -50,9 +50,9 @@ Null: There is no difference in MEDIAN meal costs between low-access and adequat
 
 ## 4. Methods
 - Permutation Test:
-   - Test statistic: Difference in median meal cost between low-access and adequate-access counteis
-   - Null simulation: Shuffling group labels 10,000 ties across all counties
-   - P-value: Proportion of permuated differences >= observed difference
+   - Test statistic: Difference in median meal cost between low-access and adequate-access counties.
+   - Null simulation: Shuffling group labels 10,000 ties across all counties.
+   - P-value: Proportion of permuated differences >= observed difference.
    - Random seed set to 50
 - Bootstrap Confidence Intervals:
    - Metric 1: Median meal cost difference between groups, each group resampled independently w/ replacement at 10,000 times.
